@@ -7,8 +7,8 @@ DIY DDR(DanceDanceRevolution) DancePad using aluminum profiles and HDPE sheets
 https://www.bilibili.com/video/BV1UKwRz9EXK/
 
 # 游玩视频展示：
-https://www.bilibili.com/video/BV12uwRzQEC9/
-https://www.bilibili.com/video/BV1QFwRzZER9/
+https://www.bilibili.com/video/BV12uwRzQEC9/  
+https://www.bilibili.com/video/BV1QFwRzZER9/  
 
 # 材料列表：
 ## 铝合金型材（我用的欧标，用国标应该也可以，配件也换成国标就行）
@@ -25,6 +25,7 @@ https://www.bilibili.com/video/BV1QFwRzZER9/
 HDPE板 295mm*295mm 9块  
 厚度建议10mm以上，非常稳，我用的16mm厚。另外四个箭头的板可以比五个不活动的板稍薄个2-3mm  
 如果你不像我体重这么大（100+kg），用厚一点的亚克力或者木板应该也是可以的
+最好找厂家先开好孔，我自己拿电钻钻孔钻得手都麻了
 ## 电子零件
 感应条加橡胶套 16个（淘宝找跳舞机感应条套装）  
 6mm-10mm宽的窄金属条 若干（贴在感应条橡胶套上，用于触发感应条）  
@@ -37,4 +38,8 @@ IO板 1个（用你喜欢的就行，我用的便宜的USB摇杆板）
 我主要在淘宝搞定的，铝型材和HDPE板也可以去本地装修市场找  
 2. 组装框架
 将铝合金型材用直角角码按下图组装为框架  
-![这是图片](/images/Frame.png "Frame")
+![框架图纸](/images/Frame.png "Frame" =400x)
+3. 在组装好的框架的一面装上橡胶封边条，用于静音和防震
+4. 在框架上安装感应条和金属条，直接将感应条平的一面粘上纳米胶
+5. 安装四角上的非活动面板
+面板四个角垫上垫片，再用八个螺丝和T型螺母锁紧
